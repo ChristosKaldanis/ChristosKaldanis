@@ -3,13 +3,11 @@
 <h3 align="center">Cybersecurity, Technology Risk & Governance | BSc in Computer Science </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Detection+Engineering+%7C+SIEM+%2F+MITRE+ATT%26CK;Privacy+%26+Security+Risk+Assessment;DevOps-Driven+Infrastructure+Automation;AI%2FML+Applied+to+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Purple+Teaming+%7C+SIEM+%2F+MITRE+ATT%26CK;Privacy+%26+Security+Risk+Assessment;DevOps-Driven+Infrastructure+Automation;AI%2FML+Applied+to+Security" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/christos-kaldanis-677107310/]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/christos-kaldanis-677107310/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
