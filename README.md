@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Christos Kaldanis 👋</h1>
 
 <h3 align="center">Cybersecurity, Technology Risk & Governance | BSc in Computer Science </h3>
+<h4 align="center">BSc in Computer Science</h4>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Purple+Teaming+%7C+SIEM+%2F+MITRE+ATT%26CK+Framework;Privacy+%26+Security+Risk+Assessment;DevOps-Driven+Infrastructure+Automation;AI%2FML+Applied+to+Security" alt="Typing SVG" />
