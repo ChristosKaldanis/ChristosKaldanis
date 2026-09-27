@@ -149,15 +149,6 @@ Led a dual security and privacy risk analysis for a university computer science 
 
 ---
 
-### 📊 GitHub Stats
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&hide_border=true" height="165"/>
-</p>
-
----
-
 <p align="center">
   <em>Building evidence-based security, one lab at a time.</em>
 </p>
