@@ -142,7 +142,7 @@ Led a dual security and privacy risk analysis for a university computer science 
 |---|---|
 | DevOps Professional Certificate | PagerDuty & LinkedIn Learning |
 | Microsoft Azure Essentials Professional Certificate | Microsoft & LinkedIn Learning |
-| Offensive Penetration Testing | Cybrary |
+| Offensive Penetration Testing | Cybrary & LinkedIn Learning |
 | CompTIA Security+ (SY0-701) Preparation | Infosec & LinkedIn Learning |
 | Forward Programme *(Accepted, 2026)* | McKinsey.org |
 
