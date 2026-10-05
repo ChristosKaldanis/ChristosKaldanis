@@ -23,7 +23,7 @@ My work sits at three connected points: understanding how systems fail, operatin
 
 **Security.**
 
-I hold a certification in offensive penetration testing and run structured attack investigations in my own lab environment - executing real intrusion scenarios, then building the detection logic to catch them. I analyse events methodically and treat risk as something to measure, not assume.
+Certified in offensive penetration testing and run structured attack investigations in my own lab. I execute real intrusion scenarios and then build the detection logic required to catch them. I analyse events methodically and treat risk as something to measure, not assume.
 
 **Operations.**
 
