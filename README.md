@@ -31,7 +31,7 @@ Certified in DevOps and cloud essentials, I focus on automation, reliable delive
 
 **Governance and risk.**
 
-I conduct formal risk assessments and privacy impact analyses, and I designed a GDPR-aligned compliance platform from first principles - technically sound, regulation-aware, built for a real operational need. I move comfortably between technical detail and the organisational decision it’s meant to inform.
+My work includes formal risk assessments, privacy impact analyses, and the design of compliance frameworks aligned with applicable regulations. I recently developed an integrated Gap Analysis model covering ISO/IEC 27001, DORA and NIS2, enabling organisations to assess maturity, prioritise gaps and define clear remediation roadmaps. I move comfortably between technical detail and the organisational decision it’s meant to inform.
 
 I communicate clearly, work with care, and take ownership of what I deliver.
 
