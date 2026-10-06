@@ -96,6 +96,16 @@ I communicate clearly, work with care, and take ownership of what I deliver.
 ### 🚀 Featured Projects
 
 <table>
+
+<tr>
+<td width="50%" valign="top">
+
+**[Gap-Analysis-Workbook](#)**
+*ISO/IEC 27001:2022, DORA (EU) 2022/2554, NIS2 (EU) 2022/2555*
+
+Professional Gap Analysis template for organizations subject to DORA and/or NIS2, with optional alignment to ISO/IEC 27001:2022.
+</td>
+
 <tr>
 <td width="50%" valign="top">
 
