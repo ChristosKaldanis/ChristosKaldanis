@@ -17,7 +17,7 @@
 
 I build clarity where technology, security and governance meet.
 
-I hold a Bachelor’s degree in Computer Science with a specialisation in Information Systems. My work sits at three connected points: understanding how systems fail, operating them with discipline, and turning findings into decisions organisations can actually act on.
+I hold a Bachelor’s degree in Computer Science with a specialisation in Information Systems, and I am currently pursuing an MSc in Advanced Cybersecurity Technologies and Governance. My work sits at three connected points: understanding how systems fail, operating them with discipline, and turning findings into decisions organisations can actually act on.
 
 **Security.**
 
