@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Christos Kaldanis 👋</h1>
+<h1 align="center">Hi, I'm Christos Kaldanis </h1>
 
 <h3 align="center">Cybersecurity, Technology Risk & Governance | MSc Candidate in Advanced Cybersecurity Technologies & Governance | BSc in Computer Science </h3>
 
